@@ -5,7 +5,6 @@ dependencies:
 galaxy_info:
   author: lidopaglia
   description: Homebrew for Mac OS X
-  company: ""
   license: "license (BSD, MIT)"
   min_ansible_version: 1.9
   platforms:
